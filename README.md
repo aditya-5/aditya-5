@@ -1,6 +1,6 @@
 ## <img src="http://raw.githubusercontent.com/aditya-5/aditya-5/master/wave.gif" width="30px"> Fancy seeing you here! ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aditya-5.aditya-5)
 
-I am Aditya Agarwal and a first year Artificial Intelligence student at [The Univesity of Manchester](https://www.manchester.ac.uk/). <br>I love exploring new technologies ![Udemy](https://img.shields.io/badge/-red?style=flat-square&logo=Udemy&logoColor=white) ![Coursera](https://img.shields.io/badge/-0055d3?style=flat-square&logo=Coursera&logoColor=white) and participating in hackathons ![MLH](https://img.shields.io/badge/-blue?style=flat-square&logo=major-league-hacking&logoColor=white) around the world.
+I am Aditya Agarwal and a second year Artificial Intelligence student at [The Univesity of Manchester](https://www.manchester.ac.uk/). <br>I love exploring new technologies ![Udemy](https://img.shields.io/badge/-red?style=flat-square&logo=Udemy&logoColor=white) ![Coursera](https://img.shields.io/badge/-0055d3?style=flat-square&logo=Coursera&logoColor=white) and participating in hackathons ![MLH](https://img.shields.io/badge/-blue?style=flat-square&logo=major-league-hacking&logoColor=white) around the world.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Aditya-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-5/)](https://www.linkedin.com/in/aditya-5/)
